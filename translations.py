@@ -2,7 +2,7 @@ TRANSLATIONS = {
     'ru': {
         'welcome': "Привет! Давайте начнем процесс регистрации в whitelist.",
         'select_wallet': "Выберите тип кошелька:",
-        'evm_wallet': "EVM Кошелек",
+        'evm_wallet': "EVM Кошелек!",
         'enter_wallet': """Введите адрес вашего EVM кошелька:
 
 Формат:
