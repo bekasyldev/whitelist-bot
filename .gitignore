@@ -1,0 +1,15 @@
+# Ignore all files in the .env file
+.env
+
+# Ignore key files
+key_shet.json
+key_google_drive.json
+
+# Ignore DS_Store file
+.DS_Store
+
+# Cache files
+__pycache__/    
+
+# virtual environment
+venv/
